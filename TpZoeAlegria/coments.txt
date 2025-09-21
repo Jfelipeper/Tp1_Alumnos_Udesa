@@ -1,0 +1,15 @@
+1) Cuando en los dias pongo una letra , me salta el comentario: 
+"la cantidad de días debe ser un entero positivo!" y se termina el programa.. 
+me deberìa repreguntar.
+
+2) idem con estado del dia. 
+
+3) El codigo esta muy prolijo, buenos comentarios me gusto que los estados del clima esten en una
+tupla por la mutabilidad, muy bien lo de el docstring. 
+ 
+4) En el punto 3 las rachas corresponden a 3 dìas o mas, vos pusiste mayor a 4. 
+
+5) tu nota es 98/100 felicitaciones. 
+
+
+
