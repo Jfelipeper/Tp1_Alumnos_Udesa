@@ -9,7 +9,7 @@ tupla por la mutabilidad, muy bien lo de el docstring.
  
 4) En el punto 3 las rachas corresponden a 3 dìas o mas, vos pusiste mayor a 4. 
 
-5) tu nota es 98/100 felicitaciones. 
+5) tu nota es 99/100 felicitaciones. 
 
 
 
